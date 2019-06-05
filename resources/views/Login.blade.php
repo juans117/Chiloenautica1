@@ -79,7 +79,7 @@
 </body>
 
 <footer class="mb-5 text-center">
-  <h3>Fernando Oyarzun Reyes</h2>
+  <h3>Fernando </h2>
     <h5>chiloenautica.cl | cel:7891212 | fono: 781234789 | sotomayor 425 castro | horario: de 9:30 A 18:00 HRS.</h4>
 </footer>
 
